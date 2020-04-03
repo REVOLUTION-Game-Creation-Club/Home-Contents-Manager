@@ -1,2 +1,2 @@
 # BookManager
-Book management console program at Home.
+Books & Data management console program at Home.
