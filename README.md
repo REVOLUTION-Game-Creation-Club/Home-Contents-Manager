@@ -1,2 +1,6 @@
 # BookManager
-Books & Data management console program at Home.
+
+기획:이상협
+
+프로그래밍:신동인
+
